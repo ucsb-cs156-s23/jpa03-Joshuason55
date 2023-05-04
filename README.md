@@ -1,9 +1,6 @@
 # jpa03-Joshuason55
 
-```
 Running at: https://jpa03-joshuason55.dokku-12.cs.ucsb.edu/
-
-```
 
 # Configuring GitHub Pages for the documentation
 
